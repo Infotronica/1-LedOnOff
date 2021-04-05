@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/Raspberry-GPIO.jpg</file>
+    </qresource>
+</RCC>
